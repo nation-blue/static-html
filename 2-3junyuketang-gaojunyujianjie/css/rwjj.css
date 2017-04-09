@@ -1,0 +1,10 @@
+
+.gjy-box {
+    background-color: white;
+    box-shadow: 0 2px 5px rgb(179, 179, 179);
+    display: inline-block;
+    height: auto;
+    width: 800px;
+}
+
+

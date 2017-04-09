@@ -1,0 +1,57 @@
+.news-list-box {
+    background-color: white;
+    box-shadow: 0 2px 5px rgb(179, 179, 179);
+    display: inline-block;
+    float: right;
+    height: auto;
+    width: 800px;
+}
+
+.guangying-item {
+    border: 1px solid #0f551d;
+    display: inline-block;
+    height: 280px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-top: 20px;
+    overflow: hidden;
+    position: relative;
+    width: 360px;
+}
+
+.guangying-item img {
+    width: 100%;
+}
+
+.guangying-item .play {
+    height: 70px;
+    left: 50%;
+    margin-left: -35px;
+    margin-top: -35px;
+    position: absolute;
+    top: 50%;
+    width: 70px;
+}
+
+.guangying-item p {
+    background-color: #0e0e01;
+    bottom: 0;
+    height: 50px;
+    left: 0;
+    line-height: 50px;
+    opacity: 0.9;
+    padding: 0 10px;
+    position: absolute;
+    width: 340px;
+}
+
+.guangying-item em {
+    float: left;
+    color: #676767;
+    font-style: normal;
+}
+.guangying-item span {
+	color: #676767;
+    line-height: 50px;
+    float: right;
+}

@@ -1,0 +1,105 @@
+
+.contentRight{
+	width: 800px;
+	height:auto;
+	float: right;
+	background:#fff;
+}
+.contentRightMain{
+	width: 720px;
+	height: auto;
+	margin: 0 auto;
+	padding: 20px 0;
+	box-sizing:border-box;
+}
+.contentRightYear{
+	width: 100%;
+	height: 50px;
+	border:1px solid #ddd
+}
+.contentRightYear span{
+	display: inline-block;
+	font-weight: bold;
+	width: 50px;
+	height: 100%;
+	line-height: 50px;
+	color: #4d4d4d;
+	text-align: center;
+	box-sizing: border-box;
+	cursor: pointer;
+	margin-left: 5px;
+}
+.contentRightYear span:hover{
+	background:#f4f4f4;
+	border-radius: 5px;
+}
+.contentRightBox{
+	width: 720px;
+	height:110px;
+	margin-top:5px;
+	margin-bottom: 15px;
+	padding-bottom: 10px;
+	transition:all 1s ease;
+	box-sizing: border-box;
+
+}
+.contentRightBox:hover{
+   background: #fafafa;
+}
+.contentRightPic{
+	float: left;
+	width: 218px;
+	height: 109px;
+	background:#b84526;
+}
+.contentRightPic img{
+	float: left;
+}
+.contentRightPic .peopleInt{
+	float: right;
+	color:#fff;
+	width: 109px;
+	text-align: center;
+}
+.peopleInt .peopleIntName{
+	width: 100%;
+	height: 80px;
+	line-height: 80px;
+	font-size: 17px;
+}
+.contentRightCon {
+	width: 500px;
+	padding:0px 10px;
+	float: right;
+	box-sizing: border-box;
+}
+.contentRightCon span{
+	display: inline-block;
+	height: 15px;
+	font-size: 12px;
+	color: #575757;
+	width: 90px;
+	padding-left: 20px;
+	line-height: 15px;
+}
+.contentRightCon .ConName{
+	background:url("../image/hnz_jpdd_user.jpg") no-repeat;
+}
+.contentRightCon .ConYear{
+	background: url("../image/hnz_kc-icon.gif") no-repeat;
+}
+.contentRightCon .ConSch{
+	background: url("../image/hnz_weizhi.gif") no-repeat;
+	width: 150px;
+}
+.contentRightCon h3{
+	font-size:16px;
+	color: #575757;
+	font-weight: bold;
+	margin-bottom: 5px;
+}
+.contentRightCon p{
+	color: #575757;
+	padding-top: 10px;
+	border-top: 1px solid #eee;
+}

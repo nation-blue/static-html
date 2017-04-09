@@ -1,0 +1,114 @@
+
+.jsy-box{
+    background: #fff url("../img/yzhb.gif") no-repeat scroll 0 10px;
+    box-shadow: 0 0 5px #ccc;
+    height: 530px;
+    margin: 25px auto 0;
+    overflow: hidden;
+    position: relative;
+    width: 1080px;
+}
+
+.jsy-box div{
+    position: relative;
+    z-index: 10;
+}
+
+.jsy-box div a{
+    display: block;
+    height: 100%;
+    position: relative;
+    width: 100%;
+    z-index: 100;
+}
+
+.jsy-box img{
+    height: 100%;
+    width: 100%;
+}
+
+.sdws{
+    display: inline;
+    height: 394px;
+    margin: 123px 0 10px 23px;
+    overflow: hidden;
+    width: 410px;
+}
+
+.dxsx{
+    height: 254px;
+    margin-top: 10px;
+    overflow: hidden;
+    width: 310px;
+}
+
+.jdsx{
+    height: 379px;
+    margin-top: 10px;
+    overflow: hidden;
+    width: 326px;
+}
+
+.wysc{
+    height: 253px;
+    margin-top: -125px;
+    overflow: hidden;
+    width: 310px;
+}
+
+.qzjt{
+    background: rgba(0, 0, 0, 0);
+    bottom: 0;
+    height: 128px;
+    overflow: hidden;
+    right: 0;
+    width: 326px;
+}
+
+.jsy-box div dl span {
+    display: inline-block;
+    float: left;
+}
+
+.jsy-box div dl{
+    background: #000;
+    bottom: 0;
+    color: #fff;
+    height: auto;
+    left: 0;
+    opacity: 0.8;
+    position: absolute;
+    width: 100%;
+    z-index: 100;
+}
+
+.jsy-box div dl dt b {
+    border: 1px solid #fff;
+    border-radius: 50%;
+    display: inline-block;
+    float: right;
+    font-weight: normal;
+    height: 19px;
+    line-height: 19px;
+    margin-top: 7px;
+    text-align: center;
+    width: 19px;
+}
+.jsy-box div dl dt{
+    height: 35px;
+    line-height: 35px;
+    margin: 0 auto;
+    padding: 0 5%;
+    text-align: left;
+    width: 80%;
+}
+
+.jsy-box div dl dd{
+    display: none;
+    height: 1px;
+    margin: 0 auto;
+    padding-bottom: 15px;
+    padding-top: 15px;
+    border-top: 1px solid #ccc;
+    width: 80%;
+} 

@@ -1,0 +1,144 @@
+
+.contentRight{
+	width: 800px;
+	height:auto;
+	float: right;
+	background:#f3f3f3;
+}
+.contentRightMain{
+	width: 720px;
+	height: auto;
+	margin: 0 auto;
+	padding: 0;
+	box-sizing:border-box;
+}
+.contentRightTop{
+	width: 720px;
+	height: auto;
+	box-sizing: border-box;
+	background: #f3f3f3;
+	overflow: hidden;
+}
+.contentRightTopInput{
+	width: 400px;
+	height: 38px;
+	color: #555;
+	border: 1px solid #009494;
+	line-height:38px;
+	border-radius: 9px; 
+	padding-left: 30px;
+	float: left;
+}
+.topSousuo{
+	width: 75px;
+	height: 40px;
+	float: left;
+	border-radius: 9px;
+	background:#259FA0;
+	text-align: center;
+	margin-left: -20px;
+}
+.topPaixu{
+	width: 150px;
+	height: 38px;
+	line-height: 40px;
+	padding-left: 10px;
+    color: #555;
+    background: #fff;
+    border: 1px solid #009494;
+    font-weight: bold;
+    float: right;
+}
+.topPaixu a{
+	color: #555;
+	font-size: 14px;
+	font-weight: bold;
+}
+.contentRightImg{
+	width: 800px;
+	height: 190px;
+	background:url(../img/axsw.jpg);
+	margin-top: 20px;
+	padding-top: 125px;
+	box-sizing: border-box;
+}
+.contentRightAdd{
+	width: 800px;
+	height: 65px;
+	background: #000;
+	opacity: 0.5;
+}
+.contentRightAddImg{
+	width: 500px;
+	height: 65px;
+	background:url(../img/axsw_title.png) no-repeat;
+	margin-left: 300px;
+	box-sizing: border-box;
+}
+
+.contentRightBox{
+	width: 800px;
+	height: auto;
+	margin-top: 40px;
+	background: #fff;
+	padding-left: 15px;
+	padding-bottom: 15px;
+	box-sizing: border-box;
+	overflow: hidden;
+}
+.contentRightItem{
+	width: 770px;
+	height: 190px;
+	background: #f3f3f3;
+	margin-top: 15px;
+}
+.RightItemImg{
+	width: 155px;
+	height: 100%;
+	float: left;
+}
+.RightItemImg img{
+	width: 155px;
+	height: 100%;
+}
+.RightItemRight{
+	float: left;
+	width: 580px;
+	height: 100%;
+	padding-left: 10px;
+	padding-top:  10px;
+	box-sizing: border-box;
+}
+.RightItemTit{
+	width: 100%;
+	height: 40px;
+	line-height: 40px;
+	overflow: hidden;
+}
+.zuozhe{
+	color: #000;
+	font-size: 16px;
+	font-weight: bold;
+	float: left;
+	cursor: pointer;
+}
+.riqi{
+	color: #666;
+	float: right;
+	cursor: pointer;
+
+}
+.RightItemInt{
+	width: 100%;
+	height: 30px;
+	line-height: 30px;
+	color: #009494;
+	cursor: pointer;
+}
+.RightItemWenzi{
+	color: #666;
+}
+.RightItemWenzi span{
+    color: #009494;
+
+}

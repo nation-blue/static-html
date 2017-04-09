@@ -1,0 +1,82 @@
+
+a{
+	color: #575757;
+}
+span{
+    display: inline;
+}
+
+.rd-list {
+    background: #fff;
+    box-shadow: 2px 2px 5px #bbb;
+    display: inline-block;
+    float: right;
+    height: auto;
+    padding: 16px;
+    width: 778px;
+}
+
+.rd-list p {
+    border-bottom: 1px solid #ccc;
+    color: #009494;
+    font-size: 16px;
+    height: 35px;
+    line-height: 35px;
+    margin-bottom: 10px;
+    padding: 5px 0;
+    width: 100%;
+}
+
+.rd-list li {
+    border-bottom: 1px solid #ddd;
+    float: left;
+    height: 260px;
+    margin: 0 20px 10px;
+    overflow: hidden;
+    padding: 12px;
+    width: 182px;
+}
+
+.rd-list li a {
+    display: block;
+    height: 100%;
+    width: 100%;
+}
+
+.rd-list li a .shuimg {
+    height: 200px;
+    overflow: hidden;
+    width: 100%;
+}
+
+.rd-list li img {
+    height: 200px;
+    margin: 2px;
+    width: 100%;
+}
+
+.rd-list li a .shuming {
+    width:100%;
+    overflow:hidden;
+    display: block;
+    height: 30px;
+    line-height: 30px;
+}
+
+.rd-list li a span {
+    display: block;float: left;
+    padding: 0 10px;
+}
+
+.fanye {
+    color: #575757;
+    height: 20px;
+    line-height: 20px;
+    padding-bottom: 15px;
+    padding-top: 15px;
+    width: 400px;
+}
+
+.fanye a{
+    display: inline;
+}

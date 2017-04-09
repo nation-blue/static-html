@@ -1,0 +1,10 @@
+
+.wkt-box {
+    background: #fff none repeat scroll 0 0;
+    box-shadow: 0 2px 6px #ccc;
+    height: 518px;
+    margin: 25px auto 0;
+    overflow: hidden;
+    padding: 6px;
+    width: 1068px;
+}

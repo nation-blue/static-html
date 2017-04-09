@@ -1,0 +1,49 @@
+
+.new-list-box {
+    background: #fff;
+    float: right;
+    height: auto;
+    width: 800px;
+}
+
+.sdws-list-box {
+    border-bottom: 1px solid #ccc;
+    margin-bottom: 22px;
+    padding: 20px 32px 60px;
+}
+
+.sdws-list-box dt {
+    border-bottom: 1px solid #ccc;
+    cursor: pointer;
+    font-size: 1.2em;
+    font-weight: bold;
+    padding: 10px 0;
+    position: relative;
+}
+
+.plus-button {
+    cursor: pointer;
+    height: 16px;
+    margin-top: -8px;
+    position: absolute;
+    right: 10px;
+    top: 50%;
+    width: 16px;
+}
+
+.plus-button .btnoff {
+    background:url("../img/jian.png") no-repeat ;
+    float: right;
+    height: 16px;
+    width: 16px;
+}
+
+.sdws-list-box dd {
+    display: block;
+    background:url("../img/dian.png") no-repeat 8px 18px;
+    border-bottom: 1px dotted #ccc;
+    padding: 10px 24px;
+}
+a{
+	color: #575757;
+}

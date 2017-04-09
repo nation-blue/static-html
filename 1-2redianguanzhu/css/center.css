@@ -1,0 +1,62 @@
+
+.content {
+    height: auto;
+    margin: 25px auto;
+    overflow: hidden;
+    width: 1080px;
+}
+
+.news-list-box {
+    background-color: white;
+    box-shadow: 0 2px 5px rgb(179, 179, 179);
+    display: inline-block;
+    float: right;
+    height: auto;
+    width: 1080px;
+}
+
+.tushuo-item {
+    border: 1px solid #0f551d;
+    height: 280px;
+    margin-bottom: 60px;
+    margin-left: 28px;
+    margin-top: 20px;
+    overflow: hidden;
+    position: relative;
+    width: 320px;
+}
+
+.tushuo-item-imgbox {
+    height: 230px;
+    width: 100%;
+}
+
+.tushuo-item img {
+    height: 100%;
+    width: 100%;
+}
+
+.tushuo-item-info {
+    background: #009494 none repeat scroll 0 0;
+    color: #fff;
+    height: 50px;
+    line-height: 50px;
+    position: relative;
+    width: 100%;
+}
+
+.tushuo-item-info h3 {
+    float: left;
+    font-size: 15px;
+    font-weight: bold;
+    height: 100%;
+    margin-left: 5px;
+    width: 70%;
+}
+
+.tushuo-item-info a {
+    color: #fff;
+    float: right;
+    font-size: 15px;
+    margin-right: 5px;
+}

@@ -1,0 +1,164 @@
+
+/*banner*/
+.banner-box {
+  height: 433px;
+  min-width: 1080px;
+  position: relative;
+}
+
+.banner-bg {
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.banner-bg img {
+  display: block;
+  left: 50%;
+  margin-left: -640px;
+  position: absolute;
+  top: 0;
+  width: 1280px;
+}
+
+.banner-bg .b-btns {
+  height: 80px;
+  left: 50%;
+  margin-left: -590px;
+  position: absolute;
+  top: 166px;
+  width: 1180px;
+  z-index: 10;
+}
+
+.b-btns div {
+  background: #393939 none repeat scroll 0 0;
+  color: #fff;
+  cursor: pointer;
+  font-family: "黑体";
+  font-size: 36px;
+  height: 80px;
+  line-height: 80px;
+  opacity: 0.6;
+  text-align: center;
+  width: 50px;
+}
+.b-btns .r-btn {
+  float: right;
+}
+.b-btns .l-btn {
+  float: left;
+}
+
+/*栏目*/
+/*左面*/
+.content-box {
+  height: 300px;
+  margin: 32px auto 0;
+  width: 1080px;
+}
+
+.content-box .con-lft {
+  float: left;
+  height: 300px;
+  width: 600px;
+}
+
+.con-lft .sub-c-lft {
+  float: left;
+  height: 300px;
+  width: 300px;
+}
+
+.sub-c-lft .sdyw {
+  background: #25abab;
+}
+.sub-c-lft .xytg {
+  background: #009494;
+}
+
+.con-lft .sub-c-lft a:hover{
+  background: #007575;
+}
+.con-lft .sub-c-lft a {
+  transition: all 0.8s ease-out 0s;
+  float: left;
+  height: 150px;
+  text-align: center;
+  width: 150px;
+}
+
+
+.con-lft .sub-c-lft a h3 {
+  color: #fff;
+  font-size: 24px;
+  margin-top: 15px;
+}
+.con-lft .sub-c-lft a p {
+  color: #fff;
+  font-family:Helvetica;
+  font-size: 16px;
+}
+.content-box .sub-c-rt {
+  background: url("../img/sdxb.gif") no-repeat scroll 0 0;
+  float: left;
+  height: 300px;
+  overflow: hidden;
+  width: 300px;
+}
+
+/*右面*/
+.content-box .con-rt {
+  float: left;
+  height: 300px;
+  margin-left: 30px;
+  width: 450px;
+}
+.con-rt .axsw {
+  background: #009494;
+}
+
+.con-rt a {
+  float: left;
+  height: 150px;
+  width: 150px;
+  transition: all 0.8s ease-out 0s;
+}
+.con-rt a h3 {
+  color: #fff;
+  font-size: 16px;
+  margin-left: 10px;
+  margin-top: 10px;
+}
+.con-rt a p {
+  color: #fff;
+  font-size: 16px;
+  margin-left: 10px;
+  margin-top: 5px;
+}
+.con-rt .xsmhxx {
+  background: url("../img/xsmhxx.gif");
+}
+.con-rt .xsmhxx h3 {
+  margin-top: 50px;
+}
+.con-rt .tpxt {
+  background: #009494;
+}
+.con-rt .xgxt {
+  background: url("../img/index-yczp.jpg");
+}
+.con-rt .xgxt h3 {
+   margin-top: 70px;
+}
+.con-rt .ewm {
+  background: #009494 none repeat scroll 0 0;
+  float: left;
+  height: 150px;
+  width: 150px;
+}
+.con-rt a:hover{
+  background: #007575;
+}
+

@@ -1,0 +1,89 @@
+
+
+.contentRight{
+	width: 800px;
+	height:auto;
+	float: right;
+	padding: 0 5px;
+	background:#f3f3f3;
+}
+.contentRightMain{
+	width: 720px;
+	height: auto; 
+	padding: 10px;
+	background: #fff;
+	
+}
+.contentRightTop{
+	overflow: hidden;
+}
+.contentRightTop .contentRightTopImg{
+	float: left;
+	width: 215px;
+	height: 287px;
+	background: url(../img/2.jpg) no-repeat;
+}
+.contentRightTop .contentRightTopInt{
+	float: right;
+	width: 500px;
+	height: 287px;
+}
+.contentRightTopInt{
+	overflow: hidden;
+}
+.contentRightTopInt .sjmc{
+	width: 100%;
+	height: 75px;
+	line-height: 110px;
+	border-bottom: 1px solid #ddd;
+	font-size: 22px;
+}
+.contentRightTopInt .sjzz{
+	padding-left: 18px;
+	height: 15px;
+	line-height: 15px;
+	margin-top: 10px;
+	background: url(../image/hnz_jpdd_user.jpg) 0 0  no-repeat;
+}
+.contentRightTopInt .sjrq{
+	padding-left: 18px;
+	height: 15px;
+	line-height: 15px;
+	margin-top: 10px;
+	background: url(../image/hnz_jpdd-date.jpg) 0 0 no-repeat;
+}
+.contentRightTopInt .sjcbs{
+	padding-left: 18px;
+	height: 35px;
+	line-height: 15px;
+	margin-top: 10px;
+	border-bottom: 1px solid #ddd;
+}
+ .contentRightTopBtn{
+	width: 150px;
+	height: 30px;
+	text-align: center;
+	line-height: 30px;
+	color: #fff;
+	background:#009494;
+	cursor: pointer;
+	margin-top: 5px;
+}
+.sjcontent{
+	width: 100%;
+	height: auto;
+}
+.sjcontent h5{
+	width: 100%;
+	height: 40px;
+	border-bottom: 1px solid #ddd;
+	font-size: 16px;
+	line-height: 40px;
+	color: #575757;
+}
+.sjcontent p{
+	width: 90%;
+	height: auto;
+	padding: 20px 5%;
+    color: #575757;
+}

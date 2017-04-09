@@ -1,0 +1,24 @@
+*{
+	margin: 0;padding: 0;
+    font-weight: normal;
+    list-style: outside none none;
+}
+a,ul,li,p,span{
+	display: block;
+}
+a{
+	text-decoration: none;
+}
+body {
+    background: #F3F3F3;
+    color: #575757;
+    font-family: "微软雅黑";
+    font-size: 14px;
+}
+img {
+    border: 0 none;
+}
+b, i, em {
+    font-style: normal;
+    text-decoration: none;
+}

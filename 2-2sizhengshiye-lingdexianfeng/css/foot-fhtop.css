@@ -1,0 +1,36 @@
+
+/*底部*/
+.footer-box {
+    background: #008787 none repeat scroll 0 0;
+    height: 100px;
+    margin-top: 42px;
+    min-width: 1080px;
+}
+
+.footer {
+    height: 100%;
+    margin: 0 auto;
+    width: 1080px;
+}
+.footer p {
+    color: #fff;
+    font-size: 12px;
+    line-height: 20px;
+    padding-top: 20px;
+    text-align: center;
+}
+.footer p a {
+    display: inline;
+    color: #fff;
+}
+.footer p a:hover{
+    text-decoration: underline;
+}
+
+/* 返回顶部 */
+.to-top {
+    bottom: 103px;
+    cursor: pointer;
+    position: fixed;
+    right: 30px;
+}

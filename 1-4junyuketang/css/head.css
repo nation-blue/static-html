@@ -1,0 +1,129 @@
+/* 头部 */
+.nav-box{
+	height: 157px;margin: 0 auto;
+    min-width: 1080px;
+    background:#fff;
+}
+
+.color-bg{
+	background: #009494;height: 27px;
+    min-width: 1080px;
+}
+
+.logo-box {
+    height: 80px;margin: 0 auto;
+    width: 1080px;
+}
+
+.logo-box .logo {
+    background: url("../img/logo.jpg");
+    height: 64px; margin: 8px 0;
+    width: 190px;float: left;
+}
+
+
+.login-box {
+    height: 30px;width: 350px; margin: 25px 0;
+    
+}
+.rt {
+    float: right;
+}
+
+.user {
+    background: url("../img/user.gif") no-repeat 110px center;
+    border: 1px solid #009494;
+    height: 28px;width: 100px;
+    line-height: 28px;
+    padding: 0 30px 0 5px;
+}
+
+.pwd {
+    background: url("../img/pwd.gif") no-repeat 110px center;
+    border: 1px solid #009494;
+    height: 28px;width: 100px;
+    line-height: 28px;
+    margin-left: 5px;
+    padding: 0 30px 0 5px;
+}
+
+.login-box .btn {
+    background: #009494 none repeat scroll 0 0;
+    border: 0 none; color: #fff;
+    cursor: pointer;
+    height: 30px; width: 60px;
+    margin-left: 5px;
+}
+
+.lt{
+	float: left;
+}
+
+/* 导航 */
+.n-box {
+    border-top: 1px solid #009494;
+    height: 49px;min-width: 1080px;
+}
+
+.nav {
+    height: 100%; width: 1080px;
+    margin: 0 auto;
+}
+
+.nav li {
+    float: left; position: relative;
+    height: 100%; width: 122px;
+    z-index: 100;
+}
+
+.nav li a {
+    color: #009494;
+    display: block;
+    height: 100%;
+    line-height: 49px;
+    text-align: center;
+    width: 100%;
+}
+.nav li:hover a{
+    background: #009494;
+    color: #fff;
+}
+.nav li .select {
+    background: #009494;
+    color: #fff;
+}
+
+.nav li i {
+    background: url("../img/arrow.png");
+    height: 15px;
+    position: absolute;
+    right: 10%;
+    top: 16px;
+    width: 15px;
+}
+.nav li .bubian{
+    background: url("../img/arrow1.jpg");
+}
+.nav li:hover i{
+    background: url("../img/arrow1.jpg");
+}
+
+.nav li dl {
+    height: auto;
+    position: absolute;
+    width: 100%;
+    z-index: 100;
+}
+.nav li dl dd {
+    background: #009494;
+    border-top: 1px solid #eee;
+    height: 49px;
+    width: 100%;
+}
+.nav li dl dd a:hover{
+    background: #007575;
+}
+.nav li dl dd a {
+    transition: all 1s ease 0s;
+    color: #fff;
+}

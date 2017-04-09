@@ -1,0 +1,9 @@
+
+.fldh_title .fldh_sanjiao {
+    background:url("../img/daosanjiao.png") no-repeat center center;
+    border-left: 1px solid #ccc;
+    float: right;
+    height: 100%;
+    overflow: hidden;
+    width: 40px;
+}

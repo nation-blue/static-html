@@ -1,0 +1,63 @@
+
+.content {
+    height: auto;
+    margin: 25px auto;
+    overflow: hidden;
+    width: 1080px;
+}
+
+.fldh {
+    background: #fff none repeat scroll 0 0;
+    float: left;
+    height: auto;
+    overflow: hidden;
+    width: 257px;
+}
+
+.fldh_top {
+    background: url("../img/fldh.jpg");
+    height: 72px;
+    margin-bottom: 8px;
+    width: 100%;
+}
+
+.fldh_content {
+    background: #fff;
+}
+
+.fldh_title:hover{
+    background: #009494;
+}
+.fldh_title {
+    background: #fff none repeat scroll 0 0;
+    border-bottom: 1px solid #e6e6e6;
+    border-top: 1px solid #e6e6e6;
+    color: #575757;
+    cursor: pointer;
+    font-size: 16px;
+    height: 45px;
+    line-height: 45px;
+    margin-left: 2px;
+    padding-left: 20px;
+    width: 234px;
+    transition: all 1s ease 0s;
+}
+.fldh_title_self {
+    background: #009494 none repeat scroll 0 0;
+}
+
+.fldh_title a {
+    float: left;
+    font-size: 17px;
+    height: 45px;
+    overflow: hidden;
+    width: 70%;
+    color: #575757;
+}
+
+.fldh_bottom {
+    background: url("../img/fldh_bottom.jpg");
+    height: 20px;
+    width: 100%;
+}
+

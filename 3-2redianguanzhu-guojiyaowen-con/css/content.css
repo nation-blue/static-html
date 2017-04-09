@@ -1,0 +1,200 @@
+
+
+/* *****************添加内容**********************     */
+.content{
+	width: 1349px;
+	height: auto;
+	padding-top: 10px;
+    background: #f3f3f3;
+    overflow: hidden;
+    margin-top: 4px;
+}
+.contentMain{
+	width: 1080px;
+    height: auto;
+	margin:0 auto;
+	background:#fff;
+	padding: 10px;
+	overflow: hidden;
+
+}
+.contentNav{
+	width: 1080px;
+	height: 20px;
+	line-height: 20px;
+	color: #009494;
+}
+.contentNav a{
+	color: #444;
+}
+.contentCon{
+	width: 720px;
+	height: auto;
+	float: left;
+	padding: 25px 40px;
+	font-size: 13px;
+	color: #444;
+	border-top: 2px solid #009494;
+}
+.contentCon h3{
+	width: 100%;
+	font-size: 15px;
+	text-align: center;
+}
+.contentCon .info{
+	width: 100%;
+	text-align: center;
+}
+.contentCon .info strong{
+	color: #777;
+}
+.contentConP{
+	width: 100%;
+	height: auto;
+	text-indent: 2em;
+	margin-top: 10px;
+}
+.contentConPic img{
+	width: 80%;
+	margin: 10px auto;
+}
+
+.contentRank{
+	float: right;
+	width: 257px;
+	height: auto;
+	border-top: 2px solid #009494;
+}
+.rankPhb{
+	width: 257px;
+	height: auto;
+	background: #fff;
+}
+.rankTit{
+	width: 257px;
+	height: 40px;
+	color: #fff;
+	background: #009494;
+	font-size: 16px;
+	font-weight: bold;
+	text-align: center;
+	line-height: 40px;
+	margin-top: 20px;
+	cursor: pointer;
+}
+.rankList{
+	width: 100%;
+	height: 40px;
+	color: #575757;
+	line-height: 40px;
+	text-align: center;
+	border-bottom: 1px solid #f0f0f0;
+	padding-left: 27px;
+	display: block;
+	overflow: hidden;
+	transition: all 1s ease;
+	box-sizing: border-box;
+}
+.rankList:hover{
+	background: #f0f0f0;
+}
+/*  **********************************************       */
+.contentConE{
+	width: 100%;
+	margin-left: 50px;
+}
+.contentConP p{
+	width: 720px;
+}
+.contentConP strong{
+   height: 50px;
+   line-height: 50px;
+   display: block;
+}
+.contentConP span{
+	height: 50px;
+	line-height: 50px;
+	display: block;
+}
+.changeSrc{
+	overflow: hidden;
+}
+.changeSrc strong ,.changeSrc a{
+	float: left;
+	height: 30px;
+	line-height: 30px;
+}
+.changeSrc a{
+	color: #575757;
+	text-align: left;
+}
+.mood{
+	width: 720px;
+	height: auto;
+	overflow: hidden;
+	text-align: center;
+}
+.mood .moodList{
+    display:inline-block; 
+    margin-bottom: 10px;
+    vertical-align: bottom;
+}
+.moodList .pillar{
+	background:url(../image/mood.gif) repeat-y 28px center;
+}
+.formBox{
+	width: 720px;
+	height: auto;
+	overflow: hidden;
+	padding: 10px 20px;
+	border: 1px solid #c3d4e7;
+}
+.formBox strong{
+	width: 95px;
+	height: 22px;
+	display: inline-block;
+	line-height: 22px;
+	text-align: right;
+	background:url(../image/user_comment.png) no-repeat;
+}
+.formBox h5{
+	border-bottom: 1px solid #c3d4e7;
+}
+.formBox .formspan{
+	float:right;
+}
+.formspan a{
+	color: #575757;
+}
+.formspan a:hover{
+	text-decoration: underline;
+}
+.formAtt{
+	padding: 10px 0;
+}
+.formAtt input,.formAtt img{
+	display: inline-block;
+	vertical-align: middle;
+}
+textarea{
+	border: 1px solid #dcdddd;
+	background: #fff;
+	padding:5px 5px;
+	resize: none;
+}
+.formBut{
+	padding: 10px 0px;
+}
+.formBut input{
+	background: url(../image/button.png) no-repeat;
+	border:none;
+	height: 25px;
+	line-height: 25px;
+	padding: 0px 2px;
+	color: #fff;
+	cursor: pointer;
+}
+.formBut a{
+	color: #575757;
+	margin-left: 5px;
+}

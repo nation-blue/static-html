@@ -1,0 +1,29 @@
+.yindao{
+	display: none;
+	width: 1349px;
+	height: 694px;
+	background: #000;
+	position: fixed;z-index: 11111;
+	top: 0;left: 0;
+}
+.yindao1{
+	width: 100%;
+	height: 162px;
+	background:url(../img/yindao1.jpg) no-repeat center;
+}
+.yindao2{
+	width: 100%;
+	height: 162px;
+	background:url(../img/yindao2.jpg) no-repeat center;
+}
+.yindao3{
+	width: 100%;
+	height: 162px;
+	background:url(../img/yindao3.jpg) no-repeat center;
+}
+.yindao4{
+	width: 100%;
+	height: 208px;
+	background:url(../img/yindao4.jpg) no-repeat center;
+	cursor: pointer;
+}
